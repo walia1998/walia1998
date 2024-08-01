@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Walia</h1>
 <h3 align="center">WEB - DEVELOPER ( MERN STACK ) | | JAVA |</h3>
 
-<p align="center" >👋 Hi, I'm Ashish Walia
-
+<p align="center" >
 I'm a passionate web development enthusiast currently pursuing a Master of Computer Applications (MCA). I'm always eager to learn and explore new technologies and currently focus on full-stack development. I enjoy working on projects that challenge me to grow and enhance my skills.
 
 💻 Some of the technologies I've been working with include:
