@@ -9,7 +9,6 @@ Frontend: HTML, CSS, JavaScript, EJS
 Backend: Node.js, Express.js
 Databases: MongoDB
 Other Tools: Passport.js (for authentication), Cloudinary (for image storage), Mapbox (for maps), Mongoose, Multer
-🔭 I'm currently working on Wonder-Destination, a full-stack project that clones the Airbnb website. This project has helped me gain experience in developing a complete web application, including features like authentication, session management, and more.
 
 🌱 I'm looking forward to learning more about modern frameworks and technologies, improving my skills, and contributing to open-source projects.
 
